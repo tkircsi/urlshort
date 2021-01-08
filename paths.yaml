@@ -1,0 +1,6 @@
+- path: /quiz
+  url: "https://github.com/tkircsi/quiz"
+- path: /go-ex
+  url: "https://gobyexample.com/command-line-flags"
+- path: /ud
+  url: "https://udemy.com"
